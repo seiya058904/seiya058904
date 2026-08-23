@@ -1,9 +1,6 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg">
-    <img src="./assets/profile-header-light.svg" alt="Seiya — software projects, interfaces, and interactive experiments" width="1400">
-  </picture>
+  <img src="./assets/profile-header-light.svg#gh-light-mode-only" alt="Seiya — software projects, interfaces, and interactive experiments" width="1400">
+  <img src="./assets/profile-header-dark.svg#gh-dark-mode-only" alt="Seiya — software projects, interfaces, and interactive experiments" width="1400">
 </p>
 
 <p align="center">
@@ -85,11 +82,8 @@ I build small software products across Windows utilities, browser experiences, a
 ## Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seiya058904/seiya058904/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seiya058904/seiya058904/output/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/seiya058904/seiya058904/output/github-snake.svg" alt="GitHub contribution activity" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/seiya058904/seiya058904/output/github-snake.svg#gh-light-mode-only" alt="GitHub contribution activity" width="100%">
+  <img src="https://raw.githubusercontent.com/seiya058904/seiya058904/output/github-snake-dark.svg#gh-dark-mode-only" alt="GitHub contribution activity" width="100%">
 </p>
 
 <p align="center"><a href="https://github.com/seiya058904">Explore the rest of the work on GitHub →</a></p>
