@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 300" role="img" aria-labelledby="title desc">
+  <title id="title">Seiya — software projects, interfaces, and interactive experiments</title>
+  <desc id="desc">A light editorial system graphic with the name Seiya and a concise developer statement.</desc>
+  <rect width="1400" height="300" fill="#f5f7f4"/>
+  <path d="M0 34H1400M0 266H1400M48 0V300M1352 0V300" stroke="#d8dfdb" stroke-width="1"/>
+  <path d="M48 222H420M980 78H1352M48 82H220M1180 222H1352" stroke="#18a99c" stroke-width="3"/>
+  <path d="M470 300V198L530 138H650L710 78H870L930 138H1060L1120 198V300" fill="none" stroke="#c5d0cc" stroke-width="1"/>
+  <circle cx="530" cy="138" r="5" fill="#ff9f43"/><circle cx="710" cy="78" r="5" fill="#18a99c"/><circle cx="930" cy="138" r="5" fill="#ff9f43"/>
+  <g fill="#74827d" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">
+    <text x="48" y="58">SEIYA / PROFILE 01</text><text x="1180" y="58">BUILD · TEST · REFINE</text><text x="48" y="256">WINDOWS</text><text x="1180" y="256">INTERACTIVE SYSTEMS</text>
+  </g>
+  <text x="48" y="155" fill="#142420" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="700" letter-spacing="8">SEIYA</text>
+  <text x="52" y="190" fill="#2f4640" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="1">software projects, interfaces, and interactive experiments</text>
+  <rect x="1128" y="112" width="224" height="54" fill="#142420"/><text x="1152" y="146" fill="#f5f7f4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15">OPEN / EXPLORE</text>
+</svg>
