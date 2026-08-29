@@ -9,6 +9,8 @@
   <a href="https://github.com/seiya058904?tab=repositories">All repositories</a>
   ·
   <a href="https://github.com/seiya058904/seiya-digital-journal">Digital journal</a>
+  ·
+  <a href="mailto:sunmengsaiyi@gmail.com">Email</a>
 </p>
 
 ## What I build
@@ -23,8 +25,8 @@ I build small software products across Windows utilities, browser experiences, a
       <a href="https://github.com/seiya058904/Hardware-Monitoring"><img src="./assets/project-hardware-monitoring.webp" alt="Hardware Monitoring project preview" width="100%"></a>
       <h3><a href="https://github.com/seiya058904/Hardware-Monitoring">Hardware Monitoring</a></h3>
       <p>A lightweight Windows monitor for CPU, GPU, memory, temperatures, FPS, and other live system signals.</p>
-      <p><sub>Python · Windows · Performance monitoring · Release v1.0.8</sub></p>
-      <p><a href="https://github.com/seiya058904/Hardware-Monitoring/releases/tag/v1.0.8">Download the latest release →</a></p>
+      <p><sub>Python · Windows · Performance monitoring</sub></p>
+      <p><a href="https://github.com/seiya058904/Hardware-Monitoring/releases/latest">Download the latest release →</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/seiya058904/seiya-digital-journal"><img src="./assets/project-seiya-digital-journal.webp" alt="Seiya Digital Journal project preview" width="100%"></a>
@@ -47,7 +49,7 @@ I build small software products across Windows utilities, browser experiences, a
       <h3><a href="https://github.com/seiya058904/star-ring-card-battle">Star Ring Card Battle</a></h3>
       <p>A dark-gold fantasy card battle prototype with fixed decks, elemental effects, and an Android WebView wrapper.</p>
       <p><sub>HTML · CSS · JavaScript · Kotlin · Android</sub></p>
-      <p><a href="https://seiya058904.github.io/star-ring-card-battle/">Play in the browser</a> · <a href="https://github.com/seiya058904/star-ring-card-battle/releases/tag/v1.2.1">Release v1.2.1</a></p>
+      <p><a href="https://seiya058904.github.io/star-ring-card-battle/">Play in the browser</a> · <a href="https://github.com/seiya058904/star-ring-card-battle/releases/latest">Latest release →</a></p>
     </td>
   </tr>
 </table>
