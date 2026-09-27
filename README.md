@@ -45,11 +45,11 @@ I build small software products across Windows utilities, browser experiences, a
       <p><a href="https://seiya058904.github.io/INSTANCE/">Play INSTANCE →</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/seiya058904/star-ring-card-battle"><img src="./assets/project-star-ring-card-battle.webp" alt="Star Ring Card Battle project preview" width="100%"></a>
-      <h3><a href="https://github.com/seiya058904/star-ring-card-battle">Star Ring Card Battle</a></h3>
-      <p>A dark-gold fantasy card battle prototype with fixed decks, elemental effects, and an Android WebView wrapper.</p>
-      <p><sub>HTML · CSS · JavaScript · Kotlin · Android</sub></p>
-      <p><a href="https://seiya058904.github.io/star-ring-card-battle/">Play in the browser</a> · <a href="https://github.com/seiya058904/star-ring-card-battle/releases/latest">Latest release →</a></p>
+      <a href="https://github.com/seiya058904/Dont-stop"><img src="./assets/project-dont-stop.webp" alt="Don't Stop project preview" width="100%"></a>
+      <h3><a href="https://github.com/seiya058904/Dont-stop">Don't Stop</a></h3>
+      <p>A top-down 2D survival shooter roguelite built with Godot 4 — fight through encounters, collect weapons and upgrades, and return to camp to shape the next run.</p>
+      <p><sub>Godot 4 · GDScript · Windows · Web</sub></p>
+      <p><a href="https://seiya058904.github.io/Dont-stop/">Play in the browser</a> · <a href="https://github.com/seiya058904/Dont-stop/releases/latest">Latest release →</a></p>
     </td>
   </tr>
 </table>
@@ -58,7 +58,7 @@ I build small software products across Windows utilities, browser experiences, a
 
 <table>
   <tr>
-    <td valign="top" width="33%"><strong>Languages</strong><br>Python · JavaScript · TypeScript · Kotlin · HTML · CSS · PowerShell</td>
+    <td valign="top" width="33%"><strong>Languages</strong><br>Python · JavaScript · TypeScript · GDScript · Kotlin · HTML · CSS · PowerShell</td>
     <td valign="top" width="33%"><strong>Frontend</strong><br>React · Vite · Vue · Framer Motion · Three.js</td>
     <td valign="top" width="33%"><strong>Data & delivery</strong><br>Supabase · Cloudflare Workers · GitHub Actions · Git · Android</td>
   </tr>
@@ -75,6 +75,7 @@ I build small software products across Windows utilities, browser experiences, a
 
   - [DiskPulse](https://github.com/seiya058904/DiskPulse) — an offline Windows disk-capacity and directory-change dashboard, with installer releases and optional AI explanation.
   - [Relax Block Puzzle](https://github.com/seiya058904/Relax-Block-Puzzle) — a three-platform block puzzle workspace spanning WeChat Mini Game, Android, and Web.
+  - [Star Ring Card Battle](https://github.com/seiya058904/star-ring-card-battle) — a dark-gold fantasy card battle prototype for browser and Android.
   - [Wolf-Notes](https://github.com/seiya058904/Wolf-Notes) — a local-first werewolf-game notebook with round records and AI prompt generation.
   - [NutriFlow](https://github.com/seiya058904/NutriFlow) — a browser-based daily nutrition and weight tracker with import, export, trends, and light/dark themes.
   - [Worlds](https://github.com/seiya058904/Worlds) — a Git-managed Markdown worldbuilding archive.
