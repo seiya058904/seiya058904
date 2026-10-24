@@ -60,7 +60,7 @@ The recurring approach: **clear behavior, deliberate visuals, maintainable itera
 
 ## Web experiences
 
-**[AI Web Experience Collection](https://github.com/seiya058904/ai-web-experience-collection)** gathers **29 independent cinematic web experiences**: optics, materials, engines, sculpture, typography, deep time and more. Each work has its own structure and visual identity.
+**[AI Web Experience Collection](https://github.com/seiya058904/ai-web-experience-collection)** gathers **32 independent cinematic web experiences**: optics, materials, engines, sculpture, typography, deep time and more. Each work has its own structure and visual identity.
 
 **[Explore all experiences ↗](https://seiya058904.github.io/ai-web-experience-collection/)** · [Source repository](https://github.com/seiya058904/ai-web-experience-collection)
 
