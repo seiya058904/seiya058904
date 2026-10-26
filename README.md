@@ -58,6 +58,29 @@ The recurring approach: **clear behavior, deliberate visuals, maintainable itera
 </tr>
 </table>
 
+## Latest playable projects
+
+Two recent browser games with different approaches to simulation and interaction.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/seiya058904/cs2-roundcraft"><img src="https://raw.githubusercontent.com/seiya058904/cs2-roundcraft/main/docs/media/readme-hero.svg" alt="CS2 Roundcraft illustrated tactical match-management cover" width="100%"></a>
+  <strong><a href="https://github.com/seiya058904/cs2-roundcraft">CS2 Roundcraft</a></strong><br>
+  Make the tactical calls, follow an event-driven broadcast, and manage a fictional competitive season.<br>
+  <sub>React · TypeScript · Tactical simulation</sub><br>
+  <a href="https://seiya058904.github.io/cs2-roundcraft/">Play the simulation →</a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/seiya058904/Hole-City"><img src="https://raw.githubusercontent.com/seiya058904/Hole-City/main/media/readme-hero.svg" alt="Hole City illustrated low-poly city swallowed by a glowing hole" width="100%"></a>
+  <strong><a href="https://github.com/seiya058904/Hole-City">Hole City</a></strong><br>
+  Grow from a tiny hole into a map-consuming force across four modes and sixteen worlds.<br>
+  <sub>3D · Browser game · Compiled distribution</sub><br>
+  <a href="https://seiya058904.github.io/Hole-City/">Play Hole City →</a>
+</td>
+</tr>
+</table>
+
 ## Web experiences
 
 **[AI Web Experience Collection](https://github.com/seiya058904/ai-web-experience-collection)** gathers **32 independent cinematic web experiences**: optics, materials, engines, sculpture, typography, deep time and more. Each work has its own structure and visual identity.
@@ -76,6 +99,9 @@ The recurring approach: **clear behavior, deliberate visuals, maintainable itera
 <summary><strong>Browse more repositories</strong></summary>
 
 - [DiskPulse](https://github.com/seiya058904/DiskPulse) — local-first Windows disk usage and directory-change reporting.
+- [Mochi Arcade](https://github.com/seiya058904/mochi-arcade) — eight offline-friendly casual Android games.
+- [DSH Pet Lite](https://github.com/seiya058904/DSH-Pet-Lite) — independently packaged lightweight Windows desktop pet.
+- [Epic Battle Sandbox CN](https://github.com/seiya058904/epic-battle-sandbox-cn) — a browser-playable modified Unity battle sandbox with generous resources.
 - [Grand Tour](https://github.com/seiya058904/Grand-Tour) — an offline-capable cycling stage-race simulation.
 - [Stillpond](https://github.com/seiya058904/stillpond) — a quiet procedural pond with koi and goldfish.
 - [Relax Block Puzzle](https://github.com/seiya058904/Relax-Block-Puzzle) — a casual puzzle workspace for WeChat, Android and Web.
