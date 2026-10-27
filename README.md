@@ -83,7 +83,7 @@ Two recent browser games with different approaches to simulation and interaction
 
 ## Web experiences
 
-**[AI Web Experience Collection](https://github.com/seiya058904/ai-web-experience-collection)** gathers **38 independent browser experiences**: optics, materials, engines, sculpture, typography, deep time and more. Each work has its own structure and visual identity.
+**[AI Web Experience Collection](https://github.com/seiya058904/ai-web-experience-collection)** gathers **32 independent cinematic web experiences**: optics, materials, engines, sculpture, typography, deep time and more. Each work has its own structure and visual identity.
 
 **[Explore all experiences ↗](https://seiya058904.github.io/ai-web-experience-collection/)** · [Source repository](https://github.com/seiya058904/ai-web-experience-collection)
 
