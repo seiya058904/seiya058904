@@ -58,9 +58,9 @@ The recurring approach: **clear behavior, deliberate visuals, maintainable itera
 </tr>
 </table>
 
-## Latest playable projects
+## Recent interactive projects
 
-Two recent browser games with different approaches to simulation and interaction.
+Browser projects exploring tactical decisions, playful simulation and quiet connections.
 
 <table>
 <tr>
@@ -80,6 +80,8 @@ Two recent browser games with different approaches to simulation and interaction
 </td>
 </tr>
 </table>
+
+**[Drift](https://github.com/seiya058904/drift)** — an anonymous message-in-a-bottle experience. Leave a thought, open a stranger's bottle, and let it drift on. **[Visit the sea →](https://drift.seiya-api.workers.dev)**
 
 ## Web experiences
 
