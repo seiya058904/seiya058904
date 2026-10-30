@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title description" width="1200" height="420" preserveAspectRatio="xMidYMid meet">
+  <title id="title">Drift — Some words are meant to drift</title>
+  <desc id="description">An illustrated glass bottle carrying a folded note across a quiet blue sea. A cover illustration, not an application screenshot.</desc>
+  <defs>
+    <linearGradient id="paper" x2="1" y2="1"><stop stop-color="#faf8f1"/><stop offset="1" stop-color="#eaf1ee"/></linearGradient>
+    <linearGradient id="sea" x2="0" y2="1"><stop stop-color="#719eaa"/><stop offset="1" stop-color="#244e63"/></linearGradient>
+    <linearGradient id="glass" x2="1" y2="0"><stop stop-color="#f4ffff" stop-opacity=".5"/><stop offset=".5" stop-color="#e5f5f3" stop-opacity=".2"/><stop offset="1" stop-color="#f5ffff" stop-opacity=".65"/></linearGradient>
+    <clipPath id="frame"><rect width="1200" height="360" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#paper)"/>
+    <circle cx="1060" cy="68" r="38" fill="#e6d8b2" opacity=".55"/>
+    <path d="M638 235Q749 191 845 212T1200 180V360H638Z" fill="#aac3c8"/>
+    <path d="M598 276Q720 227 840 251T1200 216V360H598Z" fill="url(#sea)"/>
+    <path d="M684 302Q798 270 917 287T1220 261" fill="none" stroke="#d7ece7" stroke-width="2" opacity=".6"/>
+    <path d="M748 337Q877 307 1020 323T1220 300" fill="none" stroke="#e3f1eb" stroke-width="1.5" opacity=".5"/>
+    <path d="M827 233q49-12 92 0m99-14q38-8 65-4" fill="none" stroke="#f4f5e9" stroke-width="2" opacity=".7"/>
+    <g transform="translate(936 179) rotate(23)">
+      <path d="M-22-75h44v49q0 12 20 24 13 9 13 28v61q0 20-20 20h-70q-20 0-20-20V26q0-19 13-28 20-12 20-24Z" fill="url(#glass)" stroke="#f5fbef" stroke-width="2.5"/>
+      <rect x="-25" y="-91" width="50" height="23" rx="4" fill="#b28b5e" stroke="#8f704b" stroke-width="1.5"/>
+      <path d="M-15-84h29M-15-77H8" stroke="#d8bb8a" stroke-width="2"/>
+      <rect x="-30" y="7" width="61" height="70" rx="3" fill="#f9f0d6"/>
+      <path d="m-29 9 30 27L30 9M-29 75l22-25m37 25L9 51" fill="none" stroke="#d3c4a7" stroke-width="1.5"/>
+      <path d="M-39 27v50q0 14 12 15" fill="none" stroke="#fff" stroke-width="4" opacity=".7"/>
+      <path d="M-12-56v28" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity=".6"/>
+    </g>
+    <g fill="#204754">
+      <text x="66" y="69" font-family="Arial, sans-serif" font-size="13" letter-spacing="3">A QUIET MOMENT OF CONNECTION</text>
+      <text x="61" y="177" font-family="Georgia, serif" font-size="102">Drift</text>
+      <text x="66" y="224" font-family="Georgia, serif" font-size="27" font-style="italic">Some words are meant to drift.</text>
+      <path d="M66 255h70" stroke="#8aa5a7" stroke-width="2"/>
+      <text x="66" y="291" font-family="Arial, sans-serif" font-size="17">Leave a thought. Open a stranger’s bottle.</text>
+      <text x="66" y="324" font-family="Arial, sans-serif" font-size="12" letter-spacing="2" fill="#537078">ANONYMOUS · NO ACCOUNTS · NO READ RECEIPTS</text>
+    </g>
+  </g>
+</svg>

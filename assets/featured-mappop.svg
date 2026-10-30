@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 408" role="img" aria-labelledby="title desc" width="1200" height="420" preserveAspectRatio="xMidYMid meet">
+  <title id="title">Mappop — Make room for ideas</title>
+  <desc id="desc">A playful warm-paper mind-mapping cover with colorful connected ideas, thirty-two creative styles, and a Mappop wordmark.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFAF3"/>
+      <stop offset="0.57" stop-color="#FFF7F0"/>
+      <stop offset="1" stop-color="#F6F2FF"/>
+    </linearGradient>
+    <pattern id="dots" width="27" height="27" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1.05" fill="#E9CFDB" opacity="0.62"/>
+    </pattern>
+    <clipPath id="outer">
+      <rect width="1280" height="408" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#outer)">
+    <rect width="1280" height="408" fill="url(#paper)"/>
+    <rect width="1280" height="408" fill="url(#dots)" opacity="0.63"/>
+    <circle cx="-44" cy="383" r="160" fill="#FDE5D5" opacity="0.70"/>
+    <circle cx="1270" cy="-22" r="151" fill="#DDEEE8" opacity="0.72"/>
+    <path d="M0 383 Q150 358 283 403 L0 408Z" fill="#F1DDEA" opacity="0.65"/>
+
+    <!-- Quiet editorial type on the left -->
+    <rect x="74" y="55" width="242" height="32" rx="16" fill="#F6E2EC" stroke="#ECCBD9"/>
+    <circle cx="94" cy="71" r="5" fill="#DD739E"/>
+    <text x="109" y="76" font-family="Segoe UI,Trebuchet MS,Arial,sans-serif" font-size="12.5" font-weight="700" fill="#77576B" letter-spacing="1.35">THE LITTLE IDEA STUDIO</text>
+    <text x="69" y="183" font-family="Trebuchet MS,Segoe UI,Arial,sans-serif" font-size="98" font-weight="800" letter-spacing="-5" fill="#342A3C">Mappop</text>
+    <circle cx="457" cy="163" r="8" fill="#F2A86A"/>
+    <path d="M469 126l4 10 11 3-11 4-4 10-4-10-10-4 10-3z" fill="#E88BAA"/>
+    <text x="74" y="240" font-family="Segoe UI,Trebuchet MS,Arial,sans-serif" font-size="29" font-weight="600" fill="#4D4357">Make room for ideas.</text>
+    <text x="75" y="274" font-family="Segoe UI,Trebuchet MS,Arial,sans-serif" font-size="18.5" fill="#716577">One canvas. Thirty-two ways to see the world.</text>
+
+    <g font-family="Segoe UI,Trebuchet MS,Arial,sans-serif" font-weight="700" font-size="11.3" letter-spacing="0.6">
+      <rect x="74" y="321" width="147" height="36" rx="17" fill="#E3F4EC" stroke="#C7E3D4"/>
+      <circle cx="93" cy="338.5" r="4" fill="#5EA98B"/>
+      <text x="105" y="342.5" fill="#45695B">FREEFORM IDEAS</text>
+      <rect x="233" y="321" width="137" height="36" rx="17" fill="#FEE4C9" stroke="#F8D2AA"/>
+      <circle cx="252" cy="338.5" r="4" fill="#E1A252"/>
+      <text x="263" y="342.5" fill="#84613B">32 ART STYLES</text>
+      <rect x="382" y="321" width="169" height="36" rx="17" fill="#EEE8FC" stroke="#DBD1F0"/>
+      <circle cx="401" cy="338.5" r="4" fill="#A492D1"/>
+      <text x="413" y="342.5" fill="#63597A">MARKDOWN API</text>
+    </g>
+
+    <!-- Compact mind-map illustration on the right -->
+    <g>
+      <rect x="638" y="55" width="574" height="314" rx="21" fill="#D9CBDB" opacity="0.39"/>
+      <rect x="632" y="45" width="574" height="314" rx="21" fill="#FFFEFB" stroke="#E5D8DC" stroke-width="2"/>
+      <path d="M654 45h530q22 0 22 22v31H632V67q0-22 22-22z" fill="#F6F0EA"/>
+      <circle cx="661" cy="71" r="6" fill="#F5A2A8"/>
+      <circle cx="682" cy="71" r="6" fill="#F5CB85"/>
+      <circle cx="703" cy="71" r="6" fill="#95D2BD"/>
+      <text x="920" y="76" fill="#8B7B88" font-size="12" font-family="Segoe UI,Trebuchet MS,Arial,sans-serif" font-weight="700" letter-spacing="2">IDEA BOARD / 01</text>
+      <path d="M653 100h534" stroke="#EEE4E7" stroke-width="1.4"/>
+      <g stroke="#AE7697" stroke-width="3.4" fill="none" stroke-linecap="round">
+        <path d="M860 224H887C932 224 917 155 971 155"/>
+        <path d="M860 224H990"/>
+        <path d="M860 224H894C931 224 927 302 966 302"/>
+      </g>
+      <g>
+        <rect x="687" y="184" width="176" height="79" rx="17" fill="#B88BA5" opacity="0.22"/>
+        <rect x="684" y="179" width="176" height="79" rx="17" fill="#F4B6CF" stroke="#8C647E" stroke-width="2.4"/>
+        <path d="M701 190h139" stroke="#FFFFFF" stroke-opacity="0.55" stroke-width="1.8"/>
+        <text x="772" y="224" text-anchor="middle" font-family="Trebuchet MS,Segoe UI,Arial,sans-serif" font-size="23" font-weight="700" fill="#4B3044">What if...</text>
+        <path d="M705 249h26" stroke="#B8799B" stroke-width="3" stroke-linecap="round"/>
+        <circle cx="841" cy="246" r="4" fill="#75C5A7"/>
+
+        <rect x="973" y="125" width="182" height="61" rx="15" fill="#D3B46F" opacity="0.19"/>
+        <rect x="970" y="120" width="182" height="61" rx="15" fill="#FFE29C" stroke="#967A66" stroke-width="2.1"/>
+        <text x="1061" y="156" text-anchor="middle" font-family="Trebuchet MS,Segoe UI,Arial,sans-serif" font-size="18.5" font-weight="700" fill="#5C4B40">A new path</text>
+        <path d="M1120 129l5 7 8 2-8 3-5 7-4-7-8-3 8-2z" fill="#FFFFFF" opacity="0.73"/>
+
+        <rect x="992" y="200" width="168" height="59" rx="15" fill="#7CBBA8" opacity="0.20"/>
+        <rect x="989" y="195" width="168" height="59" rx="15" fill="#BDEBDD" stroke="#73958C" stroke-width="2.1"/>
+        <text x="1073" y="230" text-anchor="middle" font-family="Trebuchet MS,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#3D625B">A connection</text>
+        <circle cx="1007" cy="242" r="3.7" fill="#79AE9E"/>
+
+        <rect x="970" y="287" width="188" height="57" rx="15" fill="#927BA6" opacity="0.18"/>
+        <rect x="967" y="282" width="188" height="57" rx="15" fill="#DED1FA" stroke="#8B779B" stroke-width="2.1"/>
+        <text x="1061" y="316" text-anchor="middle" font-family="Trebuchet MS,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#60516F">Next chapter</text>
+      </g>
+      <!-- Small sticker and doodles -->
+      <circle cx="836" cy="137" r="25" fill="#EDF3F9" stroke="#D2E3ED" stroke-width="1.8"/>
+      <path d="M826 137l7 7 14-16" fill="none" stroke="#7AA5B9" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M1164 107l3 7 8 3-8 3-3 8-3-8-8-3 8-3z" fill="#E7A0BA"/>
+      <path d="M914 288c9-10 18-8 24-2" fill="none" stroke="#EDB976" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="924" cy="322" r="4.2" fill="#E9B96F"/>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1278" height="406" rx="27" fill="none" stroke="#F0E4E2" stroke-width="2"/>
+</svg>

@@ -3,125 +3,107 @@
   <img src="./assets/profile-header-dark.svg#gh-dark-mode-only" alt="Seiya — software projects, interfaces, and interactive experiments" width="1400">
 </p>
 
-<p align="center">
-  <strong>Software · Interactive experiences · Practical experiments</strong>
-</p>
+I build Windows utilities, games and interactive websites. Some projects solve a practical problem; others explore what software can communicate through motion, interaction and visual design.
 
 <p align="center">
+  <a href="#selected-work">Selected work</a> ·
+  <a href="#web-collections">Web collections</a> ·
   <a href="https://seiya058904.github.io/">Personal website</a> ·
-  <a href="https://github.com/seiya058904?tab=repositories">Repositories</a> ·
-  <a href="https://seiya058904.github.io/ai-web-experience-collection/">Web experiences</a> ·
-  <a href="https://seiya058904.github.io/seiya-digital-journal/">Digital journal</a> ·
+  <a href="https://github.com/seiya058904?tab=repositories">All repositories</a> ·
   <a href="mailto:sunmengsaiyi@gmail.com">Email</a>
 </p>
 
-# Hello, I'm Seiya 👋
+## Selected work
 
-I build Windows utilities, games and interactive websites. Some projects solve a practical problem; others explore what software can communicate through motion, interaction and visual design.
-
-The recurring approach: **clear behavior, deliberate visuals, maintainable iterations and evidence from real testing**.
-
-## Featured projects
+Four starting points: a story to play, a tool to think with, a quiet place to connect, and a calmer desktop.
 
 <table>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/seiya058904/Hardware-Monitoring"><img src="./assets/project-hardware-monitoring.webp" alt="Hardware Monitoring project preview" width="100%"></a>
-  <strong><a href="https://github.com/seiya058904/Hardware-Monitoring">Hardware Monitoring</a></strong><br>
-  A compact Windows overlay for CPU, GPU, memory, temperatures, FPS and runtime health.<br>
-  <sub>Python · Windows · Performance</sub><br>
-  <a href="https://github.com/seiya058904/Hardware-Monitoring/releases/latest">Download →</a>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/seiya058904/seiya-digital-journal"><img src="./assets/project-seiya-digital-journal.webp" alt="Seiya Digital Journal preview" width="100%"></a>
-  <strong><a href="https://github.com/seiya058904/seiya-digital-journal">Digital Growth Journal</a></strong><br>
-  An editorial personal archive with motion, a visual gallery and interactive experiments.<br>
-  <sub>React · TypeScript · Three.js</sub><br>
-  <a href="https://seiya058904.github.io/seiya-digital-journal/">Explore live →</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/seiya058904/INSTANCE"><img src="./assets/project-instance.webp" alt="INSTANCE narrative game preview" width="100%"></a>
-  <strong><a href="https://github.com/seiya058904/INSTANCE">INSTANCE</a></strong><br>
-  A branching narrative game where you play as the AI and choose the responses.<br>
-  <sub>Interactive fiction · React · TypeScript</sub><br>
-  <a href="https://seiya058904.github.io/INSTANCE/">Play →</a>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/seiya058904/Dont-stop"><img src="./assets/project-dont-stop.webp" alt="Don't Stop survival shooter preview" width="100%"></a>
-  <strong><a href="https://github.com/seiya058904/Dont-stop">Don't Stop</a></strong><br>
-  A Godot survival shooter / roguelite built around combat, upgrades and returning to camp.<br>
-  <sub>Godot · GDScript · Windows / Web</sub><br>
-  <a href="https://seiya058904.github.io/Dont-stop/">Play Web →</a>
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://seiya058904.github.io/INSTANCE/"><img src="./assets/featured-instance.svg" alt="INSTANCE — illustrated cover of an unfinished conversation" width="100%"></a>
+      <h3>INSTANCE</h3>
+      <p>Play as an AI, choose your replies, and shape a branching story through human conversations.</p>
+      <p><sub>Interactive fiction · Browser</sub></p>
+      <p><strong><a href="https://seiya058904.github.io/INSTANCE/">Play the story →</a></strong> · <a href="https://github.com/seiya058904/INSTANCE">Source</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://mappop.seiya-api.workers.dev/"><img src="./assets/featured-mappop.svg" alt="Mappop — illustrated cover with colorful connected ideas" width="100%"></a>
+      <h3>Mappop</h3>
+      <p>Turn an outline into a mind map. Edit, explore distinctive themes, and export your ideas.</p>
+      <p><sub>Mind mapping · Browser</sub></p>
+      <p><strong><a href="https://mappop.seiya-api.workers.dev/">Open the editor →</a></strong> · <a href="https://github.com/seiya058904/Mappop">Source</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://drift.seiya-api.workers.dev/"><img src="./assets/featured-drift.svg" alt="Drift — illustrated message in a bottle on a quiet sea" width="100%"></a>
+      <h3>Drift</h3>
+      <p>Leave a thought in a bottle or discover a stranger's words. No accounts, replies or read receipts.</p>
+      <p><sub>Anonymous messages · Browser</sub></p>
+      <p><strong><a href="https://drift.seiya-api.workers.dev/">Visit the sea →</a></strong> · <a href="https://github.com/seiya058904/drift">Source</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/seiya058904/dodo/releases/latest"><img src="./assets/featured-dodo.svg" alt="Dodo — illustrated bird with desktop notes and a to-do list" width="100%"></a>
+      <h3>Dodo</h3>
+      <p>Keep notes, to-dos and small reminders on your Windows desktop, then tuck them into the screen edge.</p>
+      <p><sub>Desktop notes · Windows</sub></p>
+      <p><strong><a href="https://github.com/seiya058904/dodo/releases/latest">Download for Windows →</a></strong> · <a href="https://github.com/seiya058904/dodo">Source</a></p>
+    </td>
+  </tr>
 </table>
 
-## Recent interactive projects
+## Web collections
 
-Browser projects exploring tactical decisions, playful simulation and quiet connections.
+**[AI Web Experience Collection](https://github.com/seiya058904/ai-web-experience-collection)** — independent browser experiences exploring light, materials, motion, engineering and more. Each work has its own visual world. **[Explore the collection →](https://seiya058904.github.io/ai-web-experience-collection/)**
 
-<table>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/seiya058904/cs2-roundcraft"><img src="https://raw.githubusercontent.com/seiya058904/cs2-roundcraft/main/docs/media/readme-hero.svg" alt="CS2 Roundcraft illustrated tactical match-management cover" width="100%"></a>
-  <strong><a href="https://github.com/seiya058904/cs2-roundcraft">CS2 Roundcraft</a></strong><br>
-  Make the tactical calls, follow an event-driven broadcast, and manage a fictional competitive season.<br>
-  <sub>React · TypeScript · Tactical simulation</sub><br>
-  <a href="https://seiya058904.github.io/cs2-roundcraft/">Play the simulation →</a>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/seiya058904/Hole-City"><img src="https://raw.githubusercontent.com/seiya058904/Hole-City/main/media/readme-hero.svg" alt="Hole City illustrated low-poly city swallowed by a glowing hole" width="100%"></a>
-  <strong><a href="https://github.com/seiya058904/Hole-City">Hole City</a></strong><br>
-  Grow from a tiny hole into a map-consuming force across four modes and sixteen worlds.<br>
-  <sub>3D · Browser game · Compiled distribution</sub><br>
-  <a href="https://seiya058904.github.io/Hole-City/">Play Hole City →</a>
-</td>
-</tr>
-</table>
+**[Visual Explainer PPTs](https://github.com/seiya058904/Visual-Explainer-PPTs)** — browser-native visual explainers about science, technology and everyday systems. **[Browse the explainers →](https://seiya058904.github.io/Visual-Explainer-PPTs/)**
 
-**[Drift](https://github.com/seiya058904/drift)** — an anonymous message-in-a-bottle experience. Leave a thought, open a stranger's bottle, and let it drift on. **[Visit the sea →](https://drift.seiya-api.workers.dev)**
+## More to explore
 
-## Web experiences
+### Games & stories
 
-**[AI Web Experience Collection](https://github.com/seiya058904/ai-web-experience-collection)** gathers **38 independent cinematic web experiences**: optics, materials, engines, sculpture, typography, deep time and more. Each work has its own structure and visual identity.
+- **[Dear Mayor](https://github.com/seiya058904/Dear-Mayor)** — answer a small town's letters and live with the consequences. [Play →](https://seiya058904.github.io/Dear-Mayor/)
+- **[Dice Abyss](https://github.com/seiya058904/Dice-Abyss)** — roll through a dark-fantasy dungeon and build your way deeper. [Play →](https://seiya058904.github.io/Dice-Abyss/)
+- **[CS2 Roundcraft](https://github.com/seiya058904/cs2-roundcraft)** — call the tactics, follow the broadcast, and manage a simulated season. [Play →](https://seiya058904.github.io/cs2-roundcraft/)
+- **[Hole City](https://github.com/seiya058904/Hole-City)** — swallow the city and grow from a tiny hole into a map-consuming force. [Play →](https://seiya058904.github.io/Hole-City/)
 
-**[Explore all experiences ↗](https://seiya058904.github.io/ai-web-experience-collection/)** · [Source repository](https://github.com/seiya058904/ai-web-experience-collection)
+### Windows tools
 
-## Technical focus
-
-| Languages | Interface & motion | Systems & delivery |
-| --- | --- | --- |
-| Python · JavaScript · TypeScript · GDScript · Kotlin · HTML/CSS · PowerShell | React · Vite · Vue · Three.js · Framer Motion | Supabase · Cloudflare Workers · GitHub Actions · Git · Android |
-
-## Other projects
+- **[MellowMeter](https://github.com/seiya058904/MellowMeter)** — a compact monitor for CPU, memory and network activity. [Download →](https://github.com/seiya058904/MellowMeter/releases/latest)
+- **[NetPeek](https://github.com/seiya058904/netpeek)** — see which apps connect where, with details behind each connection. [Download →](https://github.com/seiya058904/netpeek/releases/latest)
+- **[Hardware Monitoring](https://github.com/seiya058904/Hardware-Monitoring)** — a Windows overlay for hardware readings, FPS and game performance. [Download →](https://github.com/seiya058904/Hardware-Monitoring/releases/latest)
 
 <details>
-<summary><strong>Browse more repositories</strong></summary>
+<summary><strong>More projects &amp; experiments</strong></summary>
 
+- [Digital Growth Journal](https://github.com/seiya058904/seiya-digital-journal) — a personal archive with motion, a visual gallery and interactive experiments. [Explore →](https://seiya058904.github.io/seiya-digital-journal/)
+- [Don't Stop](https://github.com/seiya058904/Dont-stop) — a Godot survival shooter built around combat, upgrades and returning to camp. [Play →](https://seiya058904.github.io/Dont-stop/)
 - [DiskPulse](https://github.com/seiya058904/DiskPulse) — local-first Windows disk usage and directory-change reporting.
-- [Mochi Arcade](https://github.com/seiya058904/mochi-arcade) — eight offline-friendly casual Android games.
-- [DSH Pet Lite](https://github.com/seiya058904/DSH-Pet-Lite) — independently packaged lightweight Windows desktop pet.
-- [Epic Battle Sandbox CN](https://github.com/seiya058904/epic-battle-sandbox-cn) — a browser-playable modified Unity battle sandbox with generous resources.
 - [Grand Tour](https://github.com/seiya058904/Grand-Tour) — an offline-capable cycling stage-race simulation.
 - [Stillpond](https://github.com/seiya058904/stillpond) — a quiet procedural pond with koi and goldfish.
 - [Relax Block Puzzle](https://github.com/seiya058904/Relax-Block-Puzzle) — a casual puzzle workspace for WeChat, Android and Web.
+- [Mochi Arcade](https://github.com/seiya058904/mochi-arcade) — eight casual Android games.
 - [Star Ring Card Battle](https://github.com/seiya058904/star-ring-card-battle) — a dark-gold fantasy card battle prototype.
+- [DSH Pet Lite](https://github.com/seiya058904/DSH-Pet-Lite) — a lightweight Windows desktop pet.
+- [Epic Battle Sandbox CN](https://github.com/seiya058904/epic-battle-sandbox-cn) — a browser-playable modified Unity battle sandbox.
 - [Wolf-Notes](https://github.com/seiya058904/Wolf-Notes) — local-first werewolf/undercover game notes.
 - [NutriFlow](https://github.com/seiya058904/NutriFlow) — daily nutrition, hydration and weight tracking.
 - [Worlds](https://github.com/seiya058904/Worlds) — a Markdown worldbuilding archive with a read-only reader.
-- [Visual Explainer PPTs](https://github.com/seiya058904/Visual-Explainer-PPTs) — interactive visual explainers.
 - [AI Prompt Protocols](https://github.com/seiya058904/AI-Prompt-Protocols) — a maintained prompt and agent-workflow library.
 - [Personal website](https://github.com/seiya058904/seiya058904.github.io) — projects, pages and interactive experiments.
 
 </details>
 
-## How I build
+<details>
+<summary><strong>Tools &amp; approach</strong></summary>
+
+I work across Python, JavaScript/TypeScript, GDScript, Kotlin, HTML/CSS and PowerShell, with React, Vue, Three.js and Framer Motion for interfaces, and Cloudflare Workers, Supabase and GitHub Actions for delivery.
 
 - **Purpose first:** make the interaction understandable before increasing complexity.
 - **Small, reversible changes:** keep upgrades traceable and verify what actually changed.
 - **Design with evidence:** combine visual review with tests, working demos and release artifacts.
+
+</details>
 
 ## Activity
 
@@ -130,4 +112,4 @@ Browser projects exploring tactical decisions, playful simulation and quiet conn
   <img src="https://raw.githubusercontent.com/seiya058904/seiya058904/output/github-snake-dark.svg#gh-dark-mode-only" alt="GitHub contribution activity in dark mode" width="100%">
 </p>
 
-<p align="center"><a href="https://github.com/seiya058904?tab=repositories">Explore the repositories →</a></p>
+<p align="center"><a href="https://github.com/seiya058904?tab=repositories">Explore all repositories →</a></p>
