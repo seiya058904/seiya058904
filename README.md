@@ -90,6 +90,7 @@ Four starting points: a story to play, a tool to think with, a quiet place to co
 - [NutriFlow](https://github.com/seiya058904/NutriFlow) — daily nutrition, hydration and weight tracking.
 - [Worlds](https://github.com/seiya058904/Worlds) — a Markdown worldbuilding archive with a read-only reader.
 - [AI Prompt Protocols](https://github.com/seiya058904/AI-Prompt-Protocols) — a maintained prompt and agent-workflow library.
+- [Pixelorama Skills](https://github.com/seiya058904/Pixelorama-Skills) — an Agent Skills + MCP workflow for creating and refining editable pixel art.
 - [Personal website](https://github.com/seiya058904/seiya058904.github.io) — projects, pages and interactive experiments.
 
 </details>
