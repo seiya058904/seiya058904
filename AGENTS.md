@@ -13,3 +13,8 @@
 ## 安全与边界
 
 保留原始图片、Git 历史和用户未提交内容，不做全仓格式化、历史重写或强制推送。不要提交凭据、缓存、临时截图或 `.workbuddy/`，也不要删除用户项目数据。提交、推送、合并、工作流触发和其它外部写入必须有明确任务授权；对仓库链接所指向的其它项目，不因修改 Profile 而自动开展维护。
+
+## Browser tool selection
+
+- Prefer Ego Browser for exploratory navigation, visual review and interactive checks when available. Use Playwright for repeatable regression, CI, isolation, request interception or other automation requiring its APIs; combine tools when useful. If Ego is unavailable, use a suitable existing browser tool.
+- Keep this repository's required browser commands, versions, profiles and safety boundaries; an exploratory check does not replace required automated tests. Do not alter real user data or production state for testing. Report the tools, coverage and any untested paths.
