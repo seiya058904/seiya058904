@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 408" role="img" aria-labelledby="title desc" width="1200" height="420" preserveAspectRatio="xMidYMid meet">
   <title id="title">Mappop — Make room for ideas</title>
-  <desc id="desc">A playful warm-paper mind-mapping cover with colorful connected ideas, thirty-two creative styles, and a Mappop wordmark.</desc>
+  <desc id="desc">A playful warm-paper mind-mapping cover with colorful connected ideas, distinctive visual themes, and a Mappop wordmark.</desc>
   <defs>
     <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#FFFAF3"/>
@@ -30,15 +30,15 @@
     <circle cx="457" cy="163" r="8" fill="#F2A86A"/>
     <path d="M469 126l4 10 11 3-11 4-4 10-4-10-10-4 10-3z" fill="#E88BAA"/>
     <text x="74" y="240" font-family="Segoe UI,Trebuchet MS,Arial,sans-serif" font-size="29" font-weight="600" fill="#4D4357">Make room for ideas.</text>
-    <text x="75" y="274" font-family="Segoe UI,Trebuchet MS,Arial,sans-serif" font-size="18.5" fill="#716577">One canvas. Thirty-two ways to see the world.</text>
+    <text x="75" y="274" font-family="Segoe UI,Trebuchet MS,Arial,sans-serif" font-size="18.5" fill="#716577">One canvas. A fresh look for every idea.</text>
 
     <g font-family="Segoe UI,Trebuchet MS,Arial,sans-serif" font-weight="700" font-size="11.3" letter-spacing="0.6">
       <rect x="74" y="321" width="147" height="36" rx="17" fill="#E3F4EC" stroke="#C7E3D4"/>
       <circle cx="93" cy="338.5" r="4" fill="#5EA98B"/>
-      <text x="105" y="342.5" fill="#45695B">FREEFORM IDEAS</text>
+      <text x="105" y="342.5" fill="#45695B">FREEFORM</text>
       <rect x="233" y="321" width="137" height="36" rx="17" fill="#FEE4C9" stroke="#F8D2AA"/>
       <circle cx="252" cy="338.5" r="4" fill="#E1A252"/>
-      <text x="263" y="342.5" fill="#84613B">32 ART STYLES</text>
+      <text x="263" y="342.5" fill="#84613B">ART THEMES</text>
       <rect x="382" y="321" width="169" height="36" rx="17" fill="#EEE8FC" stroke="#DBD1F0"/>
       <circle cx="401" cy="338.5" r="4" fill="#A492D1"/>
       <text x="413" y="342.5" fill="#63597A">MARKDOWN API</text>
